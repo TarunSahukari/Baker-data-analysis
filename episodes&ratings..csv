@@ -1,0 +1,94 @@
+series,episode,bakers_appeared,sb_name,winner_name,eliminated,viewers_7day,viewers_28day,channels_rank,us_season
+1,1,10,NA,Edd,"Lea, Mark",2.24,7,NA,NA
+1,2,8,NA,Edd,"Annetha, Louise",3,3,NA,NA
+1,3,6,NA,Edd,Jonathan,3,2,NA,NA
+1,4,5,NA,Edd,David,2.6,4,NA,NA
+1,5,4,NA,Edd,Jasminder,3.03,1,NA,NA
+1,6,3,NA,Edd,NA,2.75,1,NA,NA
+2,1,12,Holly,Joanne,Keith,3.1,2,NA,NA
+2,2,11,Jason,Joanne,Simon,3.53,2,NA,NA
+2,3,10,Yasmin,Joanne,"Ian, Urvashi",3.82,1,NA,NA
+2,4,8,"Holly, Jason",Joanne,Ben,3.6,1,NA,NA
+2,5,7,Janet,Joanne,"Jason, Robert",3.83,1,NA,NA
+2,6,5,Joanne,Joanne,Yasmin,4.25,1,NA,NA
+2,7,4,NA,Joanne,Janet,4.42,1,NA,NA
+2,8,3,NA,Joanne,NA,5.06,1,NA,NA
+3,1,12,Victoria,John,Natasha,3.85,1,NA,5
+3,2,11,John,John,Peter,4.6,1,NA,5
+3,3,10,James,John,Victoria,4.53,1,NA,5
+3,4,9,Brendan,John,Stuart,4.71,1,NA,5
+3,5,8,Ryan,John,Manisha,4.61,1,NA,5
+3,6,7,Brendan,John,NA,4.82,1,NA,5
+3,7,7,Danny,John,"Ryan, Sarah-Jane",5.1,1,NA,5
+3,8,5,James,John,Cathryn,5.35,1,NA,5
+3,9,4,James,John,Danny,5.7,1,NA,5
+3,10,3,NA,John,NA,6.74,1,NA,5
+4,1,13,Robert,Frances,Toby,6.6,1,NA,1
+4,2,12,Ruby,Frances,Lucy,6.65,1,NA,1
+4,3,11,Christine,Frances,"Deborah, Mark",7.17,1,NA,1
+4,4,9,Kimberley,Frances,Ali,6.82,1,NA,1
+4,5,8,Christine,Frances,Robert,6.95,1,NA,1
+4,6,7,Ruby,Frances,Howard,7.32,1,NA,1
+4,7,6,Frances,Frances,Glenn,7.76,1,NA,1
+4,8,5,Ruby,Frances,Christine,7.41,1,NA,1
+4,9,4,Kimberley,Frances,Beca,7.41,1,NA,1
+4,10,3,NA,Frances,NA,9.45,1,NA,1
+5,1,12,Nancy,Nancy,Claire,8.51,1,NA,2
+5,2,11,Richard,Nancy,Enwezor,8.79,1,NA,2
+5,3,10,Luis,Nancy,Jordan,9.28,1,NA,2
+5,4,9,Richard,Nancy,Iain,10.25,1,NA,2
+5,5,8,Kate,Nancy,Norman,9.95,1,NA,2
+5,6,7,Chetna,Nancy,NA,10.13,1,NA,2
+5,7,7,Richard,Nancy,Kate,10.28,1,NA,2
+5,8,6,Richard,Nancy,Martha,9.023,2,NA,2
+5,9,5,Richard,Nancy,Chetna,10.67,1,NA,2
+5,10,4,NA,Nancy,NA,13.51,1,NA,2
+6,1,12,Marie,Nadiya,Stu,11.62,11.73,1,3
+6,2,11,Ian,Nadiya,Marie,11.59,11.84,1,3
+6,4,9,Ian,Nadiya,Sandy,12.36,12.67,1,3
+6,5,8,Nadiya,Nadiya,Ugnė,12.39,12.63,1,3
+6,6,7,Mat,Nadiya,Alvin,12,12.26,1,3
+6,7,6,Tamal,Nadiya,Mat,12.35,12.58,1,3
+6,8,5,Nadiya,Nadiya,Paul,11.09,11.35,1,3
+6,9,4,Nadiya,Nadiya,Flora,12.65,12.78,1,3
+6,10,3,NA,Nadiya,NA,15.05,15.16,1,3
+7,1,12,Jane,Candice,Lee,13.58,13.86,1,4
+7,2,11,Candice,Candice,Louise,13.45,13.74,1,4
+7,3,10,Tom,Candice,Michael,13.01,13.38,1,4
+7,4,9,Benjamina,Candice,Kate,13.29,13.88,1,4
+7,5,8,Candice,Candice,Val,13.12,13.33,1,4
+7,6,7,Tom,Candice,Rav,13.13,13.41,1,4
+7,7,6,Andrew,Candice,Tom,13.45,13.72,1,4
+7,8,5,Candice,Candice,Benjamina,13.26,13.45,1,4
+7,9,4,Andrew,Candice,Selasi,13.44,13.65,1,4
+7,10,3,NA,Candice,NA,15.9,16.03,1,4
+8,1,12,Steven,Sophie,Peter,9.46,9.72,1,NA
+8,2,11,Steven,Sophie,Chris,9.23,9.53,2,NA
+8,3,10,Julia,Sophie,Flo,8.68,9.06,2,NA
+8,4,9,Kate,Sophie,Tom,8.55,8.87,3,NA
+8,5,8,Sophie,Sophie,James,8.61,8.98,4,NA
+8,6,7,Liam,Sophie,Julia,8.61,8.91,4,NA
+8,7,6,Steven,Sophie,Yan,9.01,9.32,3,NA
+8,8,5,Stacey,Sophie,Liam,8.95,9.19,4,NA
+8,9,4,Sophie,Sophie,Stacey,9.03,9.16,4,NA
+8,10,3,NA,Sophie,NA,10.04,10.13,4,NA
+9,1,12,Manon,Rahul,Imelda,9.55,9.92,3,NA
+9,2,11,Rahul,Rahul,Luke,9.31,9.76,3,NA
+9,3,10,Rahul,Rahul,Antony,8.91,9.35,2,NA
+9,4,9,Dan,Rahul,NA,8.88,9.41,3,NA
+9,5,9,Kim-Joy,Rahul,"Karen, Terry",8.67,9.15,3,NA
+9,6,7,Briony,Rahul,Dan,8.91,9.3,4,NA
+9,7,6,Kim-Joy,Rahul,Jon,9.22,9.54,3,NA
+9,8,5,Ruby,Rahul,Manon,9.69,9.93,2,NA
+9,9,4,Ruby,Rahul,Briony,9.5,9.7,3,NA
+9,10,3,NA,Rahul,NA,10.34,10.54,2,NA
+10,1,13,Michelle,David,Dan,9.62,10.03,1,NA
+10,2,12,Alice,David,Jamie,9.38,9.8,1,NA
+10,3,11,Michael,David,Amelia,8.94,9.42,1,NA
+10,4,10,Steph,David,Phil,8.96,9.49,2,NA
+10,5,9,Steph,David,"Helena, Michelle",9.26,9.64,2,NA
+10,6,7,Steph,David,Priya,8.7,9.19,3,NA
+10,7,6,Henry,David,Michael,8.98,9.42,3,NA
+10,8,5,Steph,David,Henry,9.19,9.48,3,NA
+10,9,4,Alice,David,Rosie,9.34,9.67,3,NA
+10,10,3,NA,David,NA,10.05,10.21,3,NA
